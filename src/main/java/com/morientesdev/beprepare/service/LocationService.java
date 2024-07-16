@@ -7,7 +7,7 @@ import java.util.List;
 
 public interface LocationService {
 
-    Iterable<Province> getAllProvinces();
+    List<Province> getAllProvinces();
 
     List<City> getAllCities();
 

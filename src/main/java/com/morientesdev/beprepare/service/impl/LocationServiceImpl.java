@@ -7,7 +7,6 @@ import com.morientesdev.beprepare.repository.CityRepository;
 import com.morientesdev.beprepare.repository.ProvinceRepository;
 import com.morientesdev.beprepare.service.LocationService;
 import lombok.RequiredArgsConstructor;
-import org.hibernate.action.internal.EntityActionVetoException;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
